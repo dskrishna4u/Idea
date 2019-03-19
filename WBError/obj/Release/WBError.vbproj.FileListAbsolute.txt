@@ -1,0 +1,10 @@
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\ResolveAssemblyReference.cache
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\GenerateResource.read.1.tlog
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\GenerateResource.write.1.tlog
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\WBError5.Resources.resources
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\bin\Release\WBError5.dll
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\bin\Release\WBError5.pdb
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\bin\Release\WBError5.xml
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\WBError5.dll
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\WBError5.xml
+D:\UniDoc\UniDoc-DB2-64-VS2010\UniDoc_COMS\WBError\WBError\obj\Release\WBError5.pdb
