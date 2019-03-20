@@ -2,7 +2,7 @@ Imports System.IO
 Imports System.Text
 Imports System.Configuration
 'new line adsfasdfasdf dgfgdgf mmmmmmmm
-ooooo0
+ooooo0111111
 Public Class clsError
     '-------------------------------------------------------------------------------------------------------------------
     'Project(s)     :       WebBIZ projects (WBError.sln)
