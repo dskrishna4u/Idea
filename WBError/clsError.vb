@@ -1,7 +1,7 @@
 Imports System.IO
 Imports System.Text
 Imports System.Configuration
-new line
+'new line
 
 Public Class clsError
     '-------------------------------------------------------------------------------------------------------------------
